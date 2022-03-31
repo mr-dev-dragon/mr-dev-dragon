@@ -1,6 +1,13 @@
 
 
 
+<div id="badges"  align="center">
+    
+![](https://komarev.com/ghpvc/?username=Ahmed-Aoulad-Amar)
+    <img  src="https://img.shields.io/github/followers/Ahmed-Aoulad-Amar?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/stars/Ahmed-Aoulad-Amar?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+    
+  </div>
 
 <div id="header" align="center">
     <a href="yhttps://github.com/Ahmed-Aoulad-Amar/">
@@ -9,13 +16,6 @@
 </div>
 
 
-<div id="badges"  align="center">
-    
-![](https://komarev.com/ghpvc/?username=Ahmed-Aoulad-Amar)
-    <img  src="https://img.shields.io/github/followers/Ahmed-Aoulad-Amar?label=Follow" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/github/stars/Ahmed-Aoulad-Amar?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
-    
-  </div>
      
 <div align="center">
    
