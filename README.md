@@ -1,3 +1,7 @@
+
+
+
+
 <div id="header" align="center">
     <a href="yhttps://github.com/Ahmed-Aoulad-Amar/">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
@@ -8,15 +12,24 @@
 <div id="badges"  align="center">
     
 ![](https://komarev.com/ghpvc/?username=Ahmed-Aoulad-Amar)
-    <img src="https://img.shields.io/github/followers/Ahmed-Aoulad-Amar?label=Follow" alt="LinkedIn Badge"/>
+    <img  src="https://img.shields.io/github/followers/Ahmed-Aoulad-Amar?label=Follow" alt="LinkedIn Badge"/>
     <img src="https://img.shields.io/github/stars/Ahmed-Aoulad-Amar?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+    
+  </div>
+     
+<div align="center">
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aoulad-Amar&layout=compact&hide=html,hack&theme=gotham)](https://github.com/Ahmed-Aoulad-Amar) 
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aoulad-Amar&show_icons=true&theme=gotham&count_private=true">
+</div>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aoulad-Amar&layout=compact&hide=html,hack&theme=codeSTACKr)](https://github.com/Ahmed-Aoulad-Amar)
 
- 
- </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+</div>
+<br>
 
  <div id='lojc' align="center">
 
@@ -50,25 +63,35 @@
  
  
  
- <div id="badges"  align="center" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Aoulad-Amar&show_icons=true&theme=codeSTACKr)
-  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+<div id="badges"  align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-Aoulad-Amar&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+
 </div>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
  
 <div id="badges"  align="center">
   <a href="https://github.com/Ahmed-Aoulad-Amar/">
@@ -85,20 +108,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
-
-<div id="badges"  align="center">
-
-
-
-</div>
-
-
-
-
-
-
 
 
 
