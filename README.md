@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Aoulad-Amar&column=7&theme=onedark" />
 </div>
 <br>
 
