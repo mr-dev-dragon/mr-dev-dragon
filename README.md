@@ -1,7 +1,13 @@
 
+<div id="badges"  align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+    
+  </div>
+    
 
 <div id="badges"  align="center">
+    
     
 ![](https://komarev.com/ghpvc/?username=Ahmed-Aoulad-Amar)
     <img  src="https://img.shields.io/github/followers/Ahmed-Aoulad-Amar?label=Follow" alt="LinkedIn Badge"/>
