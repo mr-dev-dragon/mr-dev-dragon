@@ -24,7 +24,7 @@
      
 <div align="center">
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aoulad-Amar&layout=compact&hide=html,hack&theme=gotham)](https://github.com/Ahmed-Aoulad-Amar) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Aoulad-Amar&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/Ahmed-Aoulad-Amar) 
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=Ahmed-Aoulad-Amar&show_icons=true&theme=gotham&count_private=true">
 </div>
 
