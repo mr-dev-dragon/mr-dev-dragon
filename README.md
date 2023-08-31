@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.instagram.com/ahmed_dev_dragon/">
+  <a href="https://www.instagram.com/dev.dragon.ahmed/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://github.com/dev-dragon-ahmed/">
