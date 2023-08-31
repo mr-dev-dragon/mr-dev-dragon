@@ -89,7 +89,7 @@
 
 <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dev-dragon-ahmed&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+![GitHub](https://activity-graph.herokuapp.com/graph?username=dev-dragon-ahmed&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 </div>
 
